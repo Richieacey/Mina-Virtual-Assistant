@@ -5,5 +5,5 @@ Here is a link of the complete packaged executables---> https://drive.google.com
 Download the archived file, extract the files and run MINA GUI.exe
 
 minimized view:
+![Alt text](https://github.com/Richieacey/Mina-Virtual-Assistant/blob/main/ice_screenshot_20230419-070616.png?raw=true "minimized view")
 
-https://github.com/Richieacey/Mina-Virtual-Assistant/blob/main/ice_screenshot_20230419-070616.png?raw=true
