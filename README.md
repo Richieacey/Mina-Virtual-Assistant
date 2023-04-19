@@ -6,4 +6,4 @@ Download the archived file, extract the files and run MINA GUI.exe
 
 minimized view:
 
-https://github.com/Richieacey/Mina-Virtual-Assistant/blob/main/ice_screenshot_20230419-070616.png
+https://github.com/Richieacey/Mina-Virtual-Assistant/blob/main/ice_screenshot_20230419-070616.png?raw=true
